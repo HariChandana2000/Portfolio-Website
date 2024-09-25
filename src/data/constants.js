@@ -339,8 +339,8 @@ export const projects = [
     image: PortfolioImg,
     tags: ["React", "HTML", "CSS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/HariChandana2000/Portfolio-Website",
+    webapp: "https://elegant-blini-f8455a.netlify.app/",
   },
 ];
 
